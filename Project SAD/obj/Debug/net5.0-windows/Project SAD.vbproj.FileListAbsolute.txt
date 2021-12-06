@@ -1,0 +1,31 @@
+C:\Users\alsha\source\repos\Project SAD\Project SAD\bin\Debug\net5.0-windows\Project SAD.exe
+C:\Users\alsha\source\repos\Project SAD\Project SAD\bin\Debug\net5.0-windows\Project SAD.deps.json
+C:\Users\alsha\source\repos\Project SAD\Project SAD\bin\Debug\net5.0-windows\Project SAD.runtimeconfig.json
+C:\Users\alsha\source\repos\Project SAD\Project SAD\bin\Debug\net5.0-windows\Project SAD.runtimeconfig.dev.json
+C:\Users\alsha\source\repos\Project SAD\Project SAD\bin\Debug\net5.0-windows\Project SAD.dll
+C:\Users\alsha\source\repos\Project SAD\Project SAD\bin\Debug\net5.0-windows\ref\Project SAD.dll
+C:\Users\alsha\source\repos\Project SAD\Project SAD\bin\Debug\net5.0-windows\Project SAD.pdb
+C:\Users\alsha\source\repos\Project SAD\Project SAD\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\alsha\source\repos\Project SAD\Project SAD\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\alsha\source\repos\Project SAD\Project SAD\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\alsha\source\repos\Project SAD\Project SAD\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\alsha\source\repos\Project SAD\Project SAD\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\alsha\source\repos\Project SAD\Project SAD\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\alsha\source\repos\Project SAD\Project SAD\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\alsha\source\repos\Project SAD\Project SAD\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\alsha\source\repos\Project SAD\Project SAD\bin\Debug\net5.0-windows\MySql.Data.xml
+C:\Users\alsha\source\repos\Project SAD\Project SAD\obj\Debug\net5.0-windows\Project SAD.vbproj.AssemblyReference.cache
+C:\Users\alsha\source\repos\Project SAD\Project SAD\obj\Debug\net5.0-windows\Project_SAD.Form1.resources
+C:\Users\alsha\source\repos\Project SAD\Project SAD\obj\Debug\net5.0-windows\Project SAD.vbproj.GenerateResource.cache
+C:\Users\alsha\source\repos\Project SAD\Project SAD\obj\Debug\net5.0-windows\Project SAD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alsha\source\repos\Project SAD\Project SAD\obj\Debug\net5.0-windows\Project SAD.AssemblyInfoInputs.cache
+C:\Users\alsha\source\repos\Project SAD\Project SAD\obj\Debug\net5.0-windows\Project SAD.AssemblyInfo.vb
+C:\Users\alsha\source\repos\Project SAD\Project SAD\obj\Debug\net5.0-windows\Project SAD.vbproj.CoreCompileInputs.cache
+C:\Users\alsha\source\repos\Project SAD\Project SAD\obj\Debug\net5.0-windows\Project SAD.vbproj.CopyComplete
+C:\Users\alsha\source\repos\Project SAD\Project SAD\obj\Debug\net5.0-windows\Project SAD.dll
+C:\Users\alsha\source\repos\Project SAD\Project SAD\obj\Debug\net5.0-windows\ref\Project SAD.dll
+C:\Users\alsha\source\repos\Project SAD\Project SAD\obj\Debug\net5.0-windows\Project SAD.pdb
+C:\Users\alsha\source\repos\Project SAD\Project SAD\obj\Debug\net5.0-windows\Project SAD.genruntimeconfig.cache
+C:\Users\alsha\source\repos\Project SAD\Project SAD\obj\Debug\net5.0-windows\Project_SAD.Employee.resources
+C:\Users\alsha\source\repos\Project SAD\Project SAD\obj\Debug\net5.0-windows\Project_SAD.Admin.resources
+C:\Users\alsha\source\repos\Project SAD\Project SAD\obj\Debug\net5.0-windows\Project_SAD.Signup.resources
